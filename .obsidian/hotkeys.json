@@ -1,0 +1,11 @@
+{
+  "obsidian-mkdocs-publisher:reload-opened-set": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

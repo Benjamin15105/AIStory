@@ -1,0 +1,1 @@
+[[University of California，Berkeley，加利福尼亚大学(伯克利分校）(UCB)]]教授，《人工智能》(全球135个国家地区，1500+大学的通用教材)的作者

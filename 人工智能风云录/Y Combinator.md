@@ -1,0 +1,1 @@
+Y Combinator成立于2005年，是美国著名[创业孵化器](https://baike.baidu.com/item/%E5%88%9B%E4%B8%9A%E5%AD%B5%E5%8C%96%E5%99%A8/313734?fromModule=lemma_inlink)，Y Combinator扶持[初创企业](https://baike.baidu.com/item/%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A/8115192?fromModule=lemma_inlink)并为其提供创业指南。

@@ -1,0 +1,1 @@
+是既[[Bertrand Arthur William Russell 伯特兰·阿瑟·威廉·罗素]]，[[Ludwig Josef Johann Wittgenstein 路德维希‧约瑟夫‧约翰‧维特根斯坦]]，[[Rudolf Carnap 鲁道夫·卡尔纳普]]之后最伟大的哲学家

@@ -1,0 +1,1 @@
+ENIAC，全称为ElectronicNumerical Integrator And Computer，即电子数字积分计算机。

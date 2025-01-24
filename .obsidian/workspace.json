@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "1475320bda7626c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99e434e4c47b576",
+        "type": "tabs",
+        "dimension": 78.30802603036877,
+        "children": [
+          {
+            "id": "f20f81bc27fbf989",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      },
+      {
+        "id": "94b0ad9640fb9afd",
+        "type": "tabs",
+        "dimension": 21.69197396963124,
+        "children": [
+          {
+            "id": "b833f569017e41dd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012126,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "86163bb46819e5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能风云录/Rodney Allen Brooks 罗德尼·布鲁克斯/Rodney Allen Brooks 罗德尼·布鲁克斯.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rodney Allen Brooks 罗德尼·布鲁克斯"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2c92dd7000a52bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e790d5c684222863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b543c7471f142aaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "562e27f72cf2cf81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c6716fc0aca68ea5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "3e77fb756d3bb080",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4d254089eb8424b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d84b176fee1ca784",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "冯诺依曼.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "冯诺依曼 的反向链接列表"
+            }
+          },
+          {
+            "id": "c815f1723926939e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "冯诺依曼.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "冯诺依曼 的出链列表"
+            }
+          },
+          {
+            "id": "b5ec7dea60e4ca11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2b8a01c388b11848",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人工智能风云录/Joshua Lederberg 乔舒亚·莱德伯格/Joshua Lederberg 乔舒亚·莱德伯格.md"
+              },
+              "icon": "lucide-list",
+              "title": "Joshua Lederberg 乔舒亚·莱德伯格 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "f20f81bc27fbf989",
+  "lastOpenFiles": [
+    "人工智能风云录/Norbert Wiener 诺伯特·维纳/玛格丽特·维纳.md",
+    "人工智能风云录/七大数学难题/七大数学难题.md",
+    "牛津大学.md",
+    "人工智能风云录/AI第二波寒冬(1987年-1993年底).md",
+    "人工智能风云录/東京大学.md",
+    "人工智能风云录/渕一博/渕一博.md",
+    "人工智能风云录/80s的日本.md",
+    "人工智能风云录/Dark sky.md",
+    "人工智能风云录/Cyc.md",
+    "人工智能风云录/第五代计算机-非冯结构.md",
+    "人工智能风云录/ESPRIT.md",
+    "人工智能风云录/ALVEY项目.md",
+    "人工智能风云录/第四代计算机-超大规模集成电路.md",
+    "人工智能风云录/第三代计算机-集成电路.md",
+    "80s的日本[[第五代计算机-非冯结构.md",
+    "人工智能风云录/William Daniel Danny Hillis 丹尼尔·希利斯/William Daniel Danny Hillis 丹尼尔·希利斯.md",
+    "人工智能风云录/Apple/Apple苹果.md",
+    "人工智能风云录/SAMSUNG，삼성.md",
+    "人工智能风云录/Metaweb.md",
+    "人工智能风云录/DENDRAL专家系统项目.md",
+    "人工智能风云录/DEC公司（即美国数字设备公司，英文：Digital Equipment Corporation，简称DEC）.md",
+    "人工智能风云录/Dartmouth College 达特茅斯学院.md",
+    "人工智能风云录/University of Southern California, 南加利福尼亚大学(USC).md",
+    "人工智能风云录/University of Illinois Chicago 伊利诺伊大学（芝加哥分校）(UIC).md",
+    "人工智能风云录/John Giannandrea 约翰·詹南德雷亚/John Giannandrea 约翰·詹南德雷亚.md",
+    "人工智能风云录/Apple/Tim Cook 蒂姆·库克.md",
+    "人工智能风云录/Apple",
+    "人工智能风云录/John Giannandrea 约翰·詹南德雷亚",
+    "人工智能风云录/未命名.canvas",
+    "人工智能风云录/Sergey Brin 谢尔盖·布林",
+    "人工智能风云录/Sydney Brenner 悉尼·布伦纳",
+    "人工智能风云录/Richard Phillips Feynman 理查德·菲利普斯·费曼",
+    "人工智能风云录/William Daniel Danny Hillis 丹尼尔·希利斯",
+    "人工智能风云录/未命名",
+    "人工智能风云录/加利福尼亚大学伯克利分校（University of California，Berkeley）",
+    "人工智能风云录/Stuart Russell 斯图尔特·罗素",
+    "人工智能风云录/Srinija Srinivasan 斯里尼佳·斯里尼瓦桑",
+    "人工智能风云录/达特茅斯会议/Dartmouth会议.canvas",
+    "人工智能风云录/Pictures/沃伦·斯特吉斯·麦卡洛克.webp",
+    "人工智能风云录/Pictures/沃尔特·皮茨.webp",
+    "人工智能风云录/Pictures/鲁道夫·卡尔纳普.jpg",
+    "人工智能风云录/Pictures/尼尔斯·约翰·尼尔森.webp",
+    "人工智能风云录/Pictures/诺伯特·维纳.png",
+    "人工智能风云录/Pictures/达特茅斯会议.png",
+    "人工智能风云录/Pictures/约翰麦卡锡.jpg",
+    "人工智能风云录/Pictures/John_McCarthy.jpg",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "人工智能风云录/Pictures/达特茅斯会议合照.png",
+    "人工智能风云录/Pictures/李飞飞.jpg"
+  ]
+}

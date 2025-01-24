@@ -1,0 +1,1 @@
+发明了[[RSS]]和[[RDF]]，后加入[[Apple苹果]]，[[网景通信公司（Netscape Communications Corporation)]],[[Google]]的研究员。

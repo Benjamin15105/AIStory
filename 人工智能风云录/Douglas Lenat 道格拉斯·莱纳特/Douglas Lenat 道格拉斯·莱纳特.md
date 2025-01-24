@@ -1,0 +1,1 @@
+领头搞五代机，76年获得[[Stanford University 斯坦福大学]]博士学位，很有含金量，因为博士学位委员会里有[[Herbert Alexander Simon 赫伯特·西蒙(司马贺)]]，[[Allen Newell 艾伦·纽厄尔]]，[[Marvin Lee Minsky 马文·明斯基]]，[[Edward Feigenbaum 爱德华·费根鲍姆]]，[[Bruce Buchanan 布鲁斯·布坎南]]，后在1983年组织了会议，提出超大规模知识库的计划，因为操作性不大，所以与[[微电子和计算机技术公司，MCC]]合作，做"知识工程"，取百科全书英文encyclopedia的cyc，成立公司[[Cyc]]。

@@ -1,0 +1,1 @@
+里面的唯一引用是，受到[[Walter Harry Pitts Jr. 沃尔特·皮茨]]和[[Warren Sturgis McCulloch 沃伦·斯特吉斯·麦卡洛克]]*[[《神经活动中内在思想的逻辑演算》]]*

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"43d00b2615e41dbb","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"68bb2382c6da2a6b","type":"file","file":"人工智能风云录/Pictures/达特茅斯会议.png","x":-200,"y":-200,"width":400,"height":256,"color":"2"},
+		{"id":"036116f326bcc2c7","type":"text","text":"","x":-125,"y":120,"width":250,"height":60},
+		{"id":"7e016b2388326113","type":"text","text":"地点:达特茅斯学院(Dartmouth College)","x":-170,"y":-360,"width":341,"height":60}
+	],
+	"edges":[
+		{"id":"fa16a9608e2d3c53","fromNode":"68bb2382c6da2a6b","fromSide":"bottom","toNode":"036116f326bcc2c7","toSide":"top"},
+		{"id":"b4bf3c3a3dff2eb4","fromNode":"68bb2382c6da2a6b","fromSide":"top","toNode":"7e016b2388326113","toSide":"bottom"}
+	]
+}

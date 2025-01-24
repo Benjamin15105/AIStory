@@ -1,0 +1,1 @@
+和[[Claude Elwood Shannon 克劳德·艾尔伍德·香农]]是好朋友

@@ -1,0 +1,1 @@
+2013年，与[[SAMSUNG，삼성]]因为多点触控打官司，发现是[[William Daniel Danny Hillis 丹尼尔·希利斯]]的专利

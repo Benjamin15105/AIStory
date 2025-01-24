@@ -1,0 +1,1 @@
+[[Joshua Lederberg 乔舒亚·莱德伯格]]，[[Bruce Buchanan 布鲁斯·布坎南]]

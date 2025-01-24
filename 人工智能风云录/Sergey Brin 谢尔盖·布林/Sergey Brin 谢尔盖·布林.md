@@ -1,0 +1,1 @@
+[[Google]]创始人，大学时使用[[Connection machine]]计算机

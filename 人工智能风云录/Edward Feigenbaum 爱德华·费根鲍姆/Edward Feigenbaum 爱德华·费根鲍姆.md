@@ -1,0 +1,1 @@
+在[[RAND Corporation 兰德公司]]实习工作，认识了[[Bruce Buchanan 布鲁斯·布坎南]]

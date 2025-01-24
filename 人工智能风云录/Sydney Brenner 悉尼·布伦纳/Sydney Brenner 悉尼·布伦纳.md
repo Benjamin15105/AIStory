@@ -1,0 +1,1 @@
+南非生物学家，2002年[诺贝尔生理学或医学奖](https://baike.baidu.com/item/%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96/1310224?fromModule=lemma_inlink)获得者。

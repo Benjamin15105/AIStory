@@ -1,0 +1,1 @@
+第一次人工智能的商用，为[[DEC公司（即美国数字设备公司，英文：Digital Equipment Corporation，简称DEC）]]根据不同规格和部件的订单为VAX计算机系列（小型机系列）构形。
